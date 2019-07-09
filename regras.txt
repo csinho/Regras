@@ -1,0 +1,44 @@
+{
+  "rules": {
+    ".read": true,
+    ".write": true,
+    "JAN":{
+      ".indexOn":["Data_Programada","Cliente"]
+    },
+    "FEV":{
+      ".indexOn":["Data_Programada","Cliente"]
+    },
+    "MAR":{
+      ".indexOn":["Data_Programada","Cliente"]
+    },
+    "ABR":{
+      ".indexOn":["Data_Programada","Cliente"]
+    },
+    "MAI":{
+      ".indexOn":["Data_Programada","Cliente"]
+    },
+    "JUN":{
+      ".indexOn":["Data_Programada","Cliente"]
+    },
+    "JUL":{
+      ".indexOn":["Data_Programada","Cliente"]
+    },
+    "AGO":{
+      ".indexOn":["Data_Programada","Cliente"]
+    },
+    "SET":{
+      ".indexOn":["Data_Programada","Cliente"]
+    },
+    "OUT":{
+      ".indexOn":["Data_Programada","Cliente"]
+    },
+    "NOV":{
+      ".indexOn":["Data_Programada","Cliente"]
+    },
+    "DEZ":{
+      ".indexOn":["Data_Programada","Cliente"]
+    }
+    
+    
+  }
+}

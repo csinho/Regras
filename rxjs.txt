@@ -1,0 +1,8 @@
+
+https://github.com/angular/angularfire2/blob/HEAD/docs/ionic/v3.md
+
+
+https://stackoverflow.com/questions/50387987/updateing-snapshotchanges-code-to-use-angularfire2-5-0-0-rc-8-firebase-5-0
+
+
+npm install --save rxjs-compat@6

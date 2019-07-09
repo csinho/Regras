@@ -1,0 +1,36 @@
+npm install firebase angularfire2 --save
+
+
+npm install rxjs@6.3.3 rxjs-compat@6.3.3 --save
+
+
+npm install moment --save 
+
+
+
+
+grafico
+npm install ng2-charts --save
+npm install ng2-charts-x --save
+
+app.module.ts
+import { ChartsModule } from 'ng2-charts-x';
+
+imports
+ChartsModule 
+
+
+ionic cordova resources --icon
+
+ionic cordova resources --splash
+
+
+
+https://cordova.apache.org/docs/en/latest/reference/cordova-plugin-splashscreen/
+
+
+
+
+tutoriais IONIC
+
+https://ilovecode.com.br/category/mobile/page/3/

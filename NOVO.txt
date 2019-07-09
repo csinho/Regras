@@ -1,0 +1,24 @@
+https://tabela-fob-66a5e.firebaseio.com/
+
+
+chave secreta - LqFZvZQalH0hKWXaHfgy05ZQG9RNipOZzYEK1Uh1
+
+
+
+planilha - 14IrzPgtiN8juxcwRVrQw6ZnzWfrIWTQ4e1KGZMMZzLo
+
+
+
+
+    apiKey: "AIzaSyDiwIdEyBHncXazT2nqyDNlY3-vCZ-Lr0w",
+    authDomain: "tabela-fob-66a5e.firebaseapp.com",
+    databaseURL: "https://tabela-fob-66a5e.firebaseio.com",
+    projectId: "tabela-fob-66a5e",
+    storageBucket: "tabela-fob-66a5e.appspot.com",
+    messagingSenderId: "84292087533",
+    appId: "1:84292087533:web:8e34c2ef1bfde3ca"
+
+
+ROBSON@POLIMODALLOG.COM.BR
+
+PLMD3301
